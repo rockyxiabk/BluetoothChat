@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\receivemessage.xml",
+        "source": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\layout\\receivemessage.xml"
+    },
+    {
+        "merged": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth_chat.xml",
+        "source": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\layout\\fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\sendmessage.xml",
+        "source": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\layout\\sendmessage.xml"
+    },
+    {
+        "merged": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\layout\\device_name.xml"
+    }
+]

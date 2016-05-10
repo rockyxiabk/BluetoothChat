@@ -1,0 +1,855 @@
+[
+    {
+        "outputFile": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 60,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 61,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 61,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 61,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 61,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 63,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2672,
+                    "endColumn": 58,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 58,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 56,
+                    "endOffset": 2783
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 56,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2788,
+                    "endColumn": 53,
+                    "endOffset": 2837
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2050,
+                        "endColumn": 53,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2842,
+                    "endColumn": 43,
+                    "endOffset": 2881
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\gridlayout-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 8968,
+                        "endColumn": 43,
+                        "endOffset": 9007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2886,
+                    "endColumn": 69,
+                    "endOffset": 2951
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2956,
+                    "endColumn": 42,
+                    "endOffset": 2994
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2999,
+                    "endColumn": 43,
+                    "endOffset": 3038
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3043,
+                    "endColumn": 44,
+                    "endOffset": 3083
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3088,
+                    "endColumn": 42,
+                    "endOffset": 3126
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3131,
+                    "endColumn": 41,
+                    "endOffset": 3168
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3173,
+                    "endColumn": 67,
+                    "endOffset": 3236
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3241,
+                    "endColumn": 50,
+                    "endOffset": 3287
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 50,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3292,
+                    "endColumn": 61,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 61,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 46,
+                    "endOffset": 3396
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 46,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3401,
+                    "endColumn": 58,
+                    "endOffset": 3455
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 58,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3460,
+                    "endColumn": 72,
+                    "endOffset": 3528
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 72,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3533,
+                    "endLine": 39,
+                    "endColumn": 13,
+                    "endOffset": 4117
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endLine": 33,
+                        "endColumn": 13,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4122,
+                    "endColumn": 42,
+                    "endOffset": 4160
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 42,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4165,
+                    "endColumn": 48,
+                    "endOffset": 4209
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 48,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4214,
+                    "endColumn": 45,
+                    "endOffset": 4255
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 45,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4260,
+                    "endColumn": 52,
+                    "endOffset": 4308
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 52,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4313,
+                    "endColumn": 52,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 52,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 42,
+                    "endOffset": 4404
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 42,
+                        "endOffset": 546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4409,
+                    "endColumn": 68,
+                    "endOffset": 4473
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 872,
+                        "endColumn": 68,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4478,
+                    "endColumn": 46,
+                    "endOffset": 4520
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 46,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4525,
+                    "endColumn": 35,
+                    "endOffset": 4556
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 35,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4561,
+                    "endColumn": 85,
+                    "endOffset": 4642
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 89,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4647,
+                    "endColumn": 51,
+                    "endOffset": 4694
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 51,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4699,
+                    "endColumn": 51,
+                    "endOffset": 4746
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 51,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4751,
+                    "endColumn": 52,
+                    "endOffset": 4799
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 52,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4804,
+                    "endColumn": 54,
+                    "endOffset": 4854
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 54,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4859,
+                    "endColumn": 50,
+                    "endOffset": 4905
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4910,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5371
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2105,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5376,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 5497
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2572,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5502,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 5625
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2699,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5630,
+                    "endColumn": 59,
+                    "endOffset": 5685
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5690,
+                    "endColumn": 52,
+                    "endOffset": 5738
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5743,
+                    "endColumn": 26,
+                    "endOffset": 5765
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5770,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 5961
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5966,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 6239
+                },
+                "from": {
+                    "file": "C:\\Users\\y7un\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]

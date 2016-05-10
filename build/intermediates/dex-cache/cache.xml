@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\y7un\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\pre-dexed\debug\butterknife-7.0.1_d80b23376fe9ad18d6010f850a5381be86776b17.jar" />
+    </item>
+    <item
+        jar="D:\MyDownload\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2_f3db6b19506f56fe2d42007bff4b47b143dc8494.jar" />
+    </item>
+    <item
+        jar="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2ca746fc43d48efd00eedae5ab3c50c4136dbe0e">
+        <dex dex="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1131fef3c489952d479c1729efe7274a94ff89f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2_db46c1fc9827a12622b5bb47defaad06b2685574.jar" />
+    </item>
+    <item
+        jar="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.2_4b4bcaa3a7b9515d570ceceb281fe46dd74f53a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="33a66744bc353db0d0fff2a146024a7e3a203e33">
+        <dex dex="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\pre-dexed\debug\instant-run_dc72825a72e9c5977f58d3ad77f99acc4292830f.jar" />
+    </item>
+    <item
+        jar="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.2_d05a0300f5da36434be5b098da389f6bd0c5d05a.jar" />
+    </item>
+    <item
+        jar="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-21.0.2_f9c16829ba179c9ddd5c8fcc11bf9e39b6023712.jar" />
+    </item>
+
+</items>

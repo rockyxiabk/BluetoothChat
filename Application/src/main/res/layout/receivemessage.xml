@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0000">
+
+    <TextView
+        android:id="@+id/receive_name"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal|bottom"
+        android:singleLine="true"
+        android:text="@string/app_name"
+        android:textSize="12dp" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:paddingBottom="15dp"
+        android:src="@drawable/icon_waga" />
+
+    <TextView
+        android:id="@+id/receive_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/receive_name"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="50dp"
+        android:layout_toRightOf="@id/receive_name"
+        android:gravity="center_vertical"
+        android:text="如果科学家证实了的话，这个冰下湖离最近的科学研究站只有不到100公里远，比起沃斯托斯湖，科学家更容易到达，可以好好研究冰下湖的生态。" />
+
+</RelativeLayout>

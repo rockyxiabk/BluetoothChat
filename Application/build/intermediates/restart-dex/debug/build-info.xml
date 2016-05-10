@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="20755975371989" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="20679198219594" >
+        <artifact
+            location="C:\Users\y7un\Desktop\BluetoothChat\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="20755975371989" >
+        <artifact
+            location="C:\Users\y7un\Desktop\BluetoothChat\Application\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
